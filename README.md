@@ -1,13 +1,13 @@
 # astro-microfrontends-error-boundary
 
-This shows how to catch errors in microfrontends with an ErrorBoundary.
+This example shows how to catch errors in microfrontends with an ErrorBoundary.
 
 ## Usage
 
-### Micro frontends
+### Microfrontends
 
-- Build each micro frontend with `npm run build`
-- Start each micro frontend with `npm run preview`
+- Build the microfrontend with `npm run build`
+- Start the microfrontend with `npm run preview`
 
 ### Shell
 
